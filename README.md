@@ -1,2 +1,4 @@
 # Spam_Detection
  An example of Supervised Leaning on spam emails and non spam emails 
+
+An ML Notebook containing a classification exercise on span and ham emails. It exemplifies a form of Supervised Learning which contains an overview of the steps of classifying spam emails from ham ones. Although this is a very basic example of using classification algorithms, it showcases useful functions that can be used at effectively pasring emails, exploring email/HTML based data, feature extraction, HTML to plain text conversion, words to vector conversion, building algorithms that can fit and transform data, usage of natural langugae toolkit, etc.
